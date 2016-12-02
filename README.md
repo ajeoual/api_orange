@@ -18,4 +18,4 @@ for run :
 
 ## Contributors
 
-Abdel-Jalil Jawal and Valentin Giraud
+Abdeljalil Jeoual and Valentin Giraud
