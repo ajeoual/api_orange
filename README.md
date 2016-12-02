@@ -2,7 +2,7 @@
 
 An API wich simulate the Orange API.
 
-## Motivation 
+## Motivation
 
 This projet it's for one new fonctionality: oppening orange api fo all.And so it will be usable for composit$
 
@@ -10,6 +10,8 @@ This projet it's for one new fonctionality: oppening orange api fo all.And so it
 
 - Clone this project
 - install the dependancies
+- create a table named "bddOrange"
+
 for run :
 - mongod
 - node app.js
